@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Alex's First CS193 Homework
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -15,11 +15,13 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- I get to learn how to use the terminal.
+- I get to know various commands and how to utilize them.
+- I get to meet new people in related majors.
 
-1. Bulleted
-2. List
+1. I get to learn how to use the terminal
+2. I get to know various commands and how to utilize them.
+3. I get to meet new people in related majors.
 
 **Bold** and _Italic_ and `Code` text
 
