@@ -3,6 +3,15 @@
 You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run Jekyll to rebuild the pages in your site, from the content in your Markdown files.
+
+- I get to learn how to use the terminal.
+- I get to know various commands and how to utilize them.
+- I get to meet new people in related majors.
+
+1. I get to learn how to use the terminal
+2. I get to know various commands and how to utilize them.
+3. I get to meet new people in related majors.
+
 ### Markdown 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
