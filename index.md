@@ -7,12 +7,9 @@ Whenever you commit to this repository, GitHub Pages will run Jekyll to rebuild 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-# Header 1
-## Header 2
-### Header 3
+### Jekyll Themes
 
 - I get to learn how to use the terminal.
 - I get to know various commands and how to utilize them.
@@ -21,15 +18,6 @@ Syntax highlighted code block
 1. I get to learn how to use the terminal
 2. I get to know various commands and how to utilize them.
 3. I get to meet new people in related majors.
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kalutes/CS193_Fall18_Lab1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
