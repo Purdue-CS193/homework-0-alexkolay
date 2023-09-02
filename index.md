@@ -1,16 +1,14 @@
 # Alex's First CS193 Homework
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
+This is my first homework, and here are some of the things I like about CS193.
 
-Whenever you commit to this repository, GitHub Pages will run Jekyll to rebuild the pages in your site, from the content in your Markdown files.
+
+## Things I like about CS193:
 
 - I get to learn how to use the terminal.
 - I get to know various commands and how to utilize them.
 - I get to meet new people in related majors.
 
-1. I get to learn how to use the terminal
-2. I get to know various commands and how to utilize them.
-3. I get to meet new people in related majors.
 
 ### Markdown 
 
